@@ -6,7 +6,6 @@
   <a href="#-tecnologias">Tecnologias</a> ·
   <a href="#-aprendendo">Aprendendo</a> ·
   <a href="#-ferramentas">Ferramentas</a> ·
-  <a href="#-estatísticas">Estatísticas</a> ·
   <a href="#-contato">Contato</a>
 </p>
 
@@ -74,13 +73,7 @@ Sou Erison, tenho 21 anos e sou apaixonado por tecnologia. Atualmente curso **An
 
 ---
 
-## 📈 Estatísticas
-<p align="center">
-  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=ErisonalvesO&show_icons=true&theme=transparent&hide_title=true" />
-  <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisonalvesO&layout=compact&theme=transparent" />
-</p>
 
----
 
 ## 🔗 Contato
 - 📧 E-mail: **erisona21@gmail.com**  
