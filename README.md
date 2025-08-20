@@ -75,11 +75,9 @@ Sou Erison, tenho 21 anos e sou apaixonado por tecnologia. Atualmente curso **An
 ---
 
 ## 📈 Estatísticas
->  **`<ErisonalvesO>`**
-
 <p align="center">
-  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=<Erisonalves>&show_icons=true&theme=transparent&hide_title=true" />
-  <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Erisonalves>&layout=compact&theme=transparent" />
+  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=ErisonalvesO&show_icons=true&theme=transparent&hide_title=true" />
+  <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisonalvesO&layout=compact&theme=transparent" />
 </p>
 
 ---
